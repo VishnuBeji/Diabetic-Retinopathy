@@ -10,4 +10,4 @@ This can be massively improved with
 * pretrained models
 * attention/related techniques to focus on areas.
 
-![alt text](https://github.com/VishnuBeji/Diabetic-Retinopathy/images/Fundusimg.jpg?raw=true)
+![alt text](https://github.com/VishnuBeji/Diabetic-Retinopathy/images/Fundusimg.png?raw=true)
