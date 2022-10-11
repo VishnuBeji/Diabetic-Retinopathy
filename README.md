@@ -9,3 +9,5 @@ This can be massively improved with
 * better target variable (age) normalization
 * pretrained models
 * attention/related techniques to focus on areas.
+
+![alt text](https://github.com/VishnuBeji/Diabetic-Retinopathy/images/Fundusimg.jpg?raw=true)
